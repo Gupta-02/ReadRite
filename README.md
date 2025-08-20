@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # ReadWrite
-=======
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7b4f16ca-9371-4562-a609-a07f78644afc" width="100" />
 </p>
@@ -260,7 +260,4 @@ This project is protected under the [MIT](https://choosealicense.com/licenses) L
 
 
 
-[Return](#quick-links)
 
----
->>>>>>> c5db8d3 (Push workspace changes)
