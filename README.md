@@ -11,9 +11,9 @@
     <em><a href="https://readrite.netlify.app/">readrite.netlify.app</a></em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/last-commit/Aashish17405/ReadRite?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/Aashish17405/ReadRite?style=flat&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/Aashish17405/ReadRite?style=flat&color=0080ff" alt="repo-language-count">
+    <img src="https://img.shields.io/github/last-commit/Gupta-02/ReadRite?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+    <img src="https://img.shields.io/github/languages/top/Gupta-02/ReadRite?style=flat&color=0080ff" alt="repo-top-language">
+    <img src="https://img.shields.io/github/languages/count/Gupta-02/ReadRite?style=flat&color=0080ff" alt="repo-language-count">
 <p>
 <p align="center">
 		<em>Developed with the software and tools below.</em>
@@ -178,7 +178,7 @@ Ensure you have the following dependencies installed on your system:
 1. Clone the ReadRite repository:
 
 ```sh
-git clone https://github.com/Aashish17405/ReadRite
+git clone https://github.com/Gupta-02/ReadRite
 ```
 
 2. Change to the project directory:
@@ -214,9 +214,9 @@ npm test
 
 Contributions are welcome! Here are several ways you can contribute:
 
-- **[Submit Pull Requests](https://github.com/Aashish17405/ReadRite/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-- **[Join the Discussions](https://github.com/Aashish17405/ReadRite/discussions)**: Share your insights, provide feedback, or ask questions.
-- **[Report Issues](https://github.com/Aashish17405/ReadRite/issues)**: Submit bugs found or log feature requests for Readrite.
+- **[Submit Pull Requests](https://github.com/Gupta-02/ReadRite/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
+- **[Join the Discussions](https://github.com/Gupta-02/ReadRite/discussions)**: Share your insights, provide feedback, or ask questions.
+- **[Report Issues](https://github.com/Gupta-02/ReadRite/issues)**: Submit bugs found or log feature requests for Readrite.
 
 <details closed>
     <summary>Contributing Guidelines</summary>
